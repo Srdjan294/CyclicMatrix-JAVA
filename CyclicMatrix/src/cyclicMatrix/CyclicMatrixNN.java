@@ -1,4 +1,4 @@
-package CyclicMatrix;
+package cyclicMatrix;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
